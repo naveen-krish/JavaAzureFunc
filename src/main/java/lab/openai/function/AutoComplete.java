@@ -41,7 +41,7 @@ public class AutoComplete {
      */
      
     private static final String API_ENDPOINT = "https://api.openai.com/v1/engines/davinci/completions";
-    private static final String API_SECRET_KEY = "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";
+    private static final String API_SECRET_KEY = "";
 
      
     @FunctionName("autoComplete")
